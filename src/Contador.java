@@ -15,7 +15,7 @@ public class Contador {
 		
 		}catch (Exception exception) {
             System.out.println("O segundo parâmetro deve ser maior que o primeiro");
-			//imprimir a mensagem: O segundo parâmetro deve ser maior que o primeiro
+			//imprimir a mensagem: O segundo parâmetro deve ser maior que o primeiro 
 		}
 		
 	}
